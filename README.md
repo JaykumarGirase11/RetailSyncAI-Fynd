@@ -396,7 +396,7 @@ Background removal endpoint.
 |------|------|
 | **Jaykumar Girase** | Full Stack Developer |
 
-**Institution:** Sandip University, Nashik
+**Institution:** R.C.Patel Institute Of Technology, Shirpur.
 
 ---
 
