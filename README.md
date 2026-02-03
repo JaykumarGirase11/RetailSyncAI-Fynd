@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="public/fynd-logo.svg" alt="RetailSync AI" width="180" />
-</p>
-
 <h1 align="center">RetailSync AI</h1>
 
 <p align="center">
