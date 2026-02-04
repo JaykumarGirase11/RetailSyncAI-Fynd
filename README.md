@@ -1,7 +1,8 @@
 <h1 align="center">RetailSync AI</h1>
 
 <p align="center">
-  <strong>AI-Powered Retail Media Ad Creation Platform</strong>
+  <strong>AI-Powered Retail Media Ad Creation Platform</strong><br/>
+  <em>🚀 Live: https://retailsync-ai-fynd.vercel.app</em>
 </p>
 
 <p align="center">
