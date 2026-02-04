@@ -34,9 +34,6 @@
 RetailSync AI transforms the retail advertisement creation process through intelligent automation. The platform combines a professional canvas editor with AI-powered design assistance, enabling retail media teams to create compliant, high-quality ads in minutes instead of hours.
 
 **Built with:** JavaScript, Node.js, React, Next.js - demonstrating full-stack engineering capabilities for the Fynd Graduate Software Development Engineer position.
-
-**Live Demo:** [retail-sync-ai.vercel.app](https://retail-sync-ai.vercel.app)
-
 ---
 
 ## Why This Project for Fynd?
